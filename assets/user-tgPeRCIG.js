@@ -1,0 +1,1 @@
+import{d as t}from"./pinia-CyKmL0zv.js";const s=t("user",{state:()=>({uid:null,name:null,mobile:null}),actions:{getUserId(){return this.uid},getUserName(){return this.name},setUser(e){this.uid=e.uid,this.name=e.name,this.mobile=e.mobile},clearUser(){this.uid=null,this.name=null,this.mobile=null}}});export{s as u};
