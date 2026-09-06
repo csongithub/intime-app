@@ -1,0 +1,1 @@
+const o=()=>{window.androidBottomInset=0,window.setAndroidBottomInset=function(t){console.log("Bottom Inset:",t),window.androidBottomInset=t,document.dispatchEvent(new Event("android-inset-updated"))}};export{o as default};
