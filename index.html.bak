@@ -1,3 +1,21 @@
-<!doctype html><html><head><title>inTime</title><meta charset=utf-8><meta name=description content="An app to manage and track tasks assigned to individula in a society or team or community"><meta name=format-detection content="telephone=no"><meta name=msapplication-tap-highlight content=no><meta name=viewport content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width"><link rel=icon type=image/png sizes=128x128 href=intime-app/icons/favicon-128x128.png><link rel=icon type=image/png sizes=96x96 href=intime-app/icons/favicon-96x96.png><link rel=icon type=image/png sizes=32x32 href=intime-app/icons/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=intime-app/icons/favicon-16x16.png><link rel=icon type=image/ico href=intime-app/favicon.ico>  <script type="module" crossorigin src="intime-app/assets/index-DI8Jxupb.js"></script>
-  <link rel="stylesheet" crossorigin href="intime-app/assets/index-BR5h9o-z.css">
-</head><body><div id=q-app></div></body></html>
+<!doctype html>
+<html>
+    <head>
+        <title>inTime</title>
+        <meta charset=utf-8>
+        <meta name=description content="An app to manage and track tasks assigned to individula in a society or team or community">
+        <meta name=format-detection content="telephone=no">
+        <meta name=msapplication-tap-highlight content=no>
+        <meta name=viewport content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width">
+        <link rel=icon type=image/png sizes=128x128 href=intime-app/icons/favicon-128x128.png>
+        <link rel=icon type=image/png sizes=96x96 href=intime-app/icons/favicon-96x96.png>
+        <link rel=icon type=image/png sizes=32x32 href=intime-app/icons/favicon-32x32.png>
+        <link rel=icon type=image/png sizes=16x16 href=intime-app/icons/favicon-16x16.png>
+        <link rel=icon type=image/ico href=intime-app/favicon.ico>
+        <script type="module" crossorigin src="/assets/index-DI8Jxupb.js"></script>
+        <link rel="stylesheet" crossorigin href="/assets/index-BR5h9o-z.css">
+    </head>
+    <body>
+        <div id=q-app></div>
+    </body>
+</html>
