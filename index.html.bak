@@ -12,8 +12,8 @@
         <link rel=icon type=image/png sizes=32x32 href=intime-app/icons/favicon-32x32.png>
         <link rel=icon type=image/png sizes=16x16 href=intime-app/icons/favicon-16x16.png>
         <link rel=icon type=image/ico href=intime-app/favicon.ico>
-        <script type="module" crossorigin src="/assets/index-DI8Jxupb.js"></script>
-        <link rel="stylesheet" crossorigin href="/assets/index-BR5h9o-z.css">
+        <script type="module" crossorigin src="intime-app/assets/index-DI8Jxupb.js"></script>
+        <link rel="stylesheet" crossorigin href="intime-app/assets/index-BR5h9o-z.css">
     </head>
     <body>
         <div id=q-app></div>
